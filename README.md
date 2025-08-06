@@ -1,5 +1,9 @@
 ## Hi there, I'm ITheClixs! 👋
 
+<p align="center">
+  <img src="skyline.jpg" alt="Nissan Skyline" width="500"/>
+</p>
+
 <!--
 **ITheClixs/ITheClixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
