@@ -1,5 +1,9 @@
 ## Hello World!
 
+<p align="center">
+  <img src="pig-staring.png" alt="Pig Staring" width="500"/>
+</p>
+
 <!--
 **ITheClixs/ITheClixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
