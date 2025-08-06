@@ -1,4 +1,4 @@
-## Hi there, I'm ITheClixs! 👋
+## Hello World!
 
 <p align="center">
   <img src="skyline.jpg" alt="Nissan Skyline" width="500"/>
