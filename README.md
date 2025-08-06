@@ -1,4 +1,3 @@
-## Hello World!
 
 <p align="center">
   <img src="pig-staring.png" alt="Pig Staring" width="500"/>
