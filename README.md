@@ -1,2 +1,2 @@
-<h3 align="center">BSc Computer Science @ ETH Zurich
+<h3 align="center">inc. BSc Computer Science @ ETH Zurich
 
